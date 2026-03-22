@@ -1,4 +1,4 @@
-# svg-icon-gen
+# 🏷️ svg-icon-gen
 
 A command-line tool that converts SVG files into production-ready icon sets for Windows and macOS, including automatic dark theme variants.
 
