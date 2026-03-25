@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "svg-icon-gen"
-version = "0.2.0"
+version = "0.2.1"
 description = "Convert SVG files into production-ready icon sets for Windows and macOS"
 readme = "README.md"
 requires-python = ">=3.10"
