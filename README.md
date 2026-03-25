@@ -92,3 +92,15 @@ The system tray does not automatically invert icons. Detect the active theme at 
 
 - **Win32**: listen for `WM_SETTINGCHANGE`, read `HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize\AppsUseLightTheme`
 - **Electron**: use `nativeTheme.shouldUseDarkColors` and call `tray.setImage()` on updates
+
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Kookiejarz%2Fsvg-icon-gen&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Kookiejarz/svg-icon-gen&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Kookiejarz/svg-icon-gen&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Kookiejarz/svg-icon-gen&type=date&legend=top-left" />
+ </picture>
+</a>
