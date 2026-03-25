@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "svg-icon-gen"
+version = "0.2.0"
+description = "Convert SVG files into production-ready icon sets for Windows and macOS"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cairosvg",
+    "pillow",
+    "numpy",
+]
+
+[project.scripts]
+svg-icon-gen = "svg_icon_gen.cli:main"

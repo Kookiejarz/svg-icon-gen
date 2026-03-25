@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Usage:
-  Single file:  python generate_icons.py logo.svg
-  Batch:        python generate_icons.py icon1.svg icon2.svg icon3.svg
-  Glob:         python generate_icons.py assets/*.svg
+  Single file:  svg-icon-gen logo.svg
+  Batch:        svg-icon-gen icon1.svg icon2.svg icon3.svg
+  Glob:         svg-icon-gen assets/*.svg
 
 Options:
   --ico-only      Generate ICO files only
