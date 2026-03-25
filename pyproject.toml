@@ -12,6 +12,7 @@ dependencies = [
     "cairosvg",
     "pillow",
     "numpy",
+    "icnsutil",
     "watchdog"
 ]
 
